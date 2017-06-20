@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.16",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MrRichSimulator",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SteamAudio",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"WindowsNoEditor"
+	]
+}
